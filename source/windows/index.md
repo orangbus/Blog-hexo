@@ -1,10 +1,8 @@
----
 title: windows
-date: 2019-06-04 14:56:23
 desc: 下载 ，资源 ， 电脑辅助工具 ， 动态桌面 ， 录屏
 keyword: 下载工具 ，资源 ， 电脑辅助工具 ， 动态桌面 ， 录屏，电脑辅助工具，视频下载，免费ppt，素材
+date: 2019-06-04 14:56:23
 ---
-
 > ### 下载神器
 
 ------
@@ -39,13 +37,7 @@ bandizip智能解压工具**(推荐使用)**：https://www.bandisoft.com/bandizi
 
 Snipaste超好用的截图软件：https://zh.snipaste.com/
 
-Rolan文件分类：https://www.irolan.com/
-
 火萤桌面（可以将视频设置为壁纸）：http://huoying666.com/index-update.html?f=u151
-
-EV录屏：http://www.ieway.cn/evcapture.html
-
-其它小工具：链接：http://pan.baidu.com/s/1jHPPtqe 密码：g7iz
 
 > ### 远程工具
 
@@ -58,8 +50,6 @@ AnyDesk: https://anydesk.com/remote-desktop
 ------
 
 Markdown-Typora**(推荐使用)**：https://typora.io/
-
-Atom**(推荐使用)**：https://atom.io/ （[本人使用的插件地址](https://git.oschina.net/www.orange.net/atom)）
 
 VScode微软编辑器：<https://code.visualstudio.com/>
 

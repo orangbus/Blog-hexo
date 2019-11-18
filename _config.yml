@@ -9,7 +9,7 @@ description: OrangBus得个人博客，专注分享各种互联网知识
 keywords: html,css,js.php.thinkphp5,laravel.python,mysql,docker,vip解析,bilibili-Orangbus,google,youtube
 author: OrangBus
 language: zh
-timezone:
+timezone: zh
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -79,10 +79,10 @@ theme: bubuzou
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-- type: git
-  repo: https://gitee.com/orangbus/orangbus.git
-# - type: git
-#   repo: https://github.com/orangbus/orangbus-orangbus.github.io.git
+#- type: git
+#  repo: https://gitee.com/orangbus/orangbus.git
+ - type: git
+   repo: https://github.com/orangbus/orangbus-orangbus.github.io.git
   
 
 # search
@@ -97,9 +97,6 @@ admin:
 #   username: orangbus
 #   password_hash: 
 #   secret: orangbus
-
-# SEO
-
 
 # live2d
 live2d:
